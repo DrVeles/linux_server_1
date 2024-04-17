@@ -2,7 +2,7 @@
 # Welcome to **Linux**!
 Описание на русском [тут](./README_RUS.md)
 
-1. [Part 1. OS installation](#part-1-installing-the-osn)
+1. [Part 1. OS installation](#part-1-installing-the-os)
 2. [Part 2. Creating a user](#part-2-creating-a-user)
 3. [Part 3. OS Network Setup](#part-3-configuring-the-os-network)
 4. [Part 4. OS Update](#part-4-os-update)
